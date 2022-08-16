@@ -1,0 +1,2 @@
+class ErrorLexico(Exception):
+    pass
